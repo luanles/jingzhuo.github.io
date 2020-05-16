@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/luanles/jingzhuo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luanles/jingzhuo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+编年体
+-------------
+序号|时间|地点|备注
+-|-|-|-
+1|？-2014.8|平顶山、郑州|郑州是高考资讯会
+2|2014.10|平顶山|十一回家
+3|2014.11|广州|第一次长途跋涉的见面
+4|2014.12|武汉|去家里吃馄饨
+5|2015.1-2|平顶山|春节回家
+6|2015.5|广州、珠海|
+7|2015.6|广州|
+8|2015.8|平顶山、郑州|暑假回家，郑州是水上方特
+9|2015.9-10|广州、深圳、香港、澳门、珠海|一次花费颇高的旅行
+10|2015.12|武汉|又见到了心雅妈妈，吃烤鱼
+11|2016.1-2|平顶山|春节回家
+12|2016.5|广州、香港|第二次香港之旅
+13|2016.8|北京|暑期实习
+14|2016.11|广州|丢手机。。
+15|2016.12-2017.1|广州|登上广州塔
+16|2017.1-2|平顶山|春节回家
+17|2017.2|武汉|造访新房子
+18|2017.5|广州|坐飞机去的
+19|2017.6|广州|
+20|2017.6|武汉|夏令营
+21|2017.7-8|平顶山|暑假回家
+22|2017.8|武汉|
+23|2017.9|上海、杭州|保研面试之旅
+24|2017.12-2018.1|广州|广州塔跨年
+25|2018.1-2|平顶山|春节回家
+26|2018.4|杭州|宝石山瞭望西湖夜景
+27|2018.5|杭州|染头发
+28|2018.5|武汉|中南路海底捞
+29|2018.6|武汉、重庆|毕业照、世界杯
+30|2018.8|南京、苏州|四人5天5民宿
+31|2018.8|平顶山|暑假回家，看望姥姥
+32|2018.10|上海|
+33|2018.11|北京|
+34|2018.12|杭州|盒马鲜生
+35|2019.1-2|平顶山|春节回家
+36|2019.4|北京|温泉
+37|2019.5|杭州|
+38|2019.7|杭州|
+39|2019.10|杭州|
+40|2019.11|上海|东方明珠晚餐
+41|2020.1|新加坡|第一次一起出国、周杰伦演唱会
+42|2020.1|杭州|
+43|2020.1-4|平顶山|最长寒假
